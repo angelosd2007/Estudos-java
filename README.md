@@ -2,4 +2,4 @@
 
 ## Links úteis: <https://loiane.training/continuar-curso/java-basico>
 
-### Agradeço a dedicação e trabalho de Loiane Groner por disponibilizar o curso java básico gratuitamente.
+### Agradecimentos: Loiane Groner.
