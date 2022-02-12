@@ -1,4 +1,4 @@
-# Este repositório apresenta os meus estudos iniciais em java ![](https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png)
+# Este repositório apresenta meus estudos iniciais em java ![](https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png)
 
 ## Links úteis: <https://loiane.training/continuar-curso/java-basico>
 
